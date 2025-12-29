@@ -50,3 +50,18 @@ A comprehensive web application showcasing the monasteries of Sikkim, India with
 
 ## Screenshots
 
+### Homepage
+
+![Homepage](Homepage.png)
+
+### Admin Login Page
+
+![Admin Login](Admin login.png)
+
+### 360° View Mode
+
+![360 Mode](360 mode.png)
+
+### User View Page
+
+![User View](User view.png)
